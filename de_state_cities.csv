@@ -1,0 +1,604 @@
+city,state
+Berlin,Berlin
+Hamburg,Hamburg
+Munich,Bavaria
+Cologne,North Rhine-Westphalia
+Frankfurt,Hesse
+Bremen,Bremen
+Düsseldorf,North Rhine-Westphalia
+Stuttgart,Baden-Württemberg
+Leipzig,Saxony
+Dortmund,North Rhine-Westphalia
+Essen,North Rhine-Westphalia
+Dresden,Saxony
+Hannover,Lower Saxony
+Nuremberg,Bavaria
+Duisburg,North Rhine-Westphalia
+Bochum,North Rhine-Westphalia
+Wuppertal,North Rhine-Westphalia
+Bielefeld,North Rhine-Westphalia
+Bonn,North Rhine-Westphalia
+Münster,North Rhine-Westphalia
+Karlsruhe,Baden-Württemberg
+Mannheim,Baden-Württemberg
+Augsburg,Bavaria
+Kassel,Hesse
+Wiesbaden,Hesse
+Mönchengladbach,North Rhine-Westphalia
+Gelsenkirchen,North Rhine-Westphalia
+Braunschweig,Lower Saxony
+Aachen,North Rhine-Westphalia
+Kiel,Schleswig-Holstein
+Chemnitz,Saxony
+Halle,Saxony-Anhalt
+Magdeburg,Saxony-Anhalt
+Freiburg im Breisgau,Baden-Württemberg
+Krefeld,North Rhine-Westphalia
+Mainz,Rhineland-Palatinate
+Lübeck,Schleswig-Holstein
+Oberhausen,North Rhine-Westphalia
+Rostock,Mecklenburg-Western Pomerania
+Erfurt,Thuringia
+Hagen,North Rhine-Westphalia
+Potsdam,Brandenburg
+Saarbrücken,Saarland
+Hamm,North Rhine-Westphalia
+Ludwigshafen,Rhineland-Palatinate
+Mülheim,North Rhine-Westphalia
+Oldenburg,Lower Saxony
+Osnabrück,Lower Saxony
+Leverkusen,North Rhine-Westphalia
+Heidelberg,Baden-Württemberg
+Solingen,North Rhine-Westphalia
+Darmstadt,Hesse
+Herne,North Rhine-Westphalia
+Neuss,North Rhine-Westphalia
+Regensburg,Bavaria
+Paderborn,North Rhine-Westphalia
+Ingolstadt,Bavaria
+Würzburg,Bavaria
+Fürth,Bavaria
+Ulm,Baden-Württemberg
+Heilbronn,Baden-Württemberg
+Pforzheim,Baden-Württemberg
+Wolfsburg,Lower Saxony
+Göttingen,Lower Saxony
+Bottrop,North Rhine-Westphalia
+Reutlingen,Baden-Württemberg
+Koblenz,Rhineland-Palatinate
+Bremerhaven,Bremen
+Recklinghausen,North Rhine-Westphalia
+Bergisch Gladbach,North Rhine-Westphalia
+Erlangen,Bavaria
+Jena,Thuringia
+Remscheid,North Rhine-Westphalia
+Trier,Rhineland-Palatinate
+Salzgitter,Lower Saxony
+Moers,North Rhine-Westphalia
+Siegen,North Rhine-Westphalia
+Hildesheim,Lower Saxony
+Cottbus,Brandenburg
+Gütersloh,North Rhine-Westphalia
+Kaiserslautern,Rhineland-Palatinate
+Witten,North Rhine-Westphalia
+Hanau,Hesse
+Schwerin,Mecklenburg-Western Pomerania
+Gera,Thuringia
+Esslingen,Baden-Württemberg
+Ludwigsburg,Baden-Württemberg
+Iserlohn,North Rhine-Westphalia
+Düren,North Rhine-Westphalia
+Tübingen,Baden-Württemberg
+Flensburg,Schleswig-Holstein
+Zwickau,Saxony
+Gießen,Hesse
+Ratingen,North Rhine-Westphalia
+Lünen,North Rhine-Westphalia
+Villingen-Schwenningen,Baden-Württemberg
+Konstanz,Baden-Württemberg
+Marl,North Rhine-Westphalia
+Worms,Rhineland-Palatinate
+Velbert,North Rhine-Westphalia
+Minden,North Rhine-Westphalia
+Dessau-Roßlau,Saxony-Anhalt
+Neumünster,Schleswig-Holstein
+Norderstedt,Schleswig-Holstein
+Delmenhorst,Lower Saxony
+Bamberg,Bavaria
+Viersen,North Rhine-Westphalia
+Marburg,Hesse
+Rheine,North Rhine-Westphalia
+Wilhelmshaven,Lower Saxony
+Gladbeck,North Rhine-Westphalia
+Lüneburg,Lower Saxony
+Troisdorf,North Rhine-Westphalia
+Dorsten,North Rhine-Westphalia
+Bayreuth,Bavaria
+Detmold,North Rhine-Westphalia
+Arnsberg,North Rhine-Westphalia
+Castrop-Rauxel,North Rhine-Westphalia
+Lüdenscheid,North Rhine-Westphalia
+Landshut,Bavaria
+Brandenburg,Brandenburg
+Bocholt,North Rhine-Westphalia
+Aschaffenburg,Bavaria
+Celle,Lower Saxony
+Kempten,Bavaria
+Fulda,Hesse
+Aalen,Baden-Württemberg
+Lippstadt,North Rhine-Westphalia
+Dinslaken,North Rhine-Westphalia
+Herford,North Rhine-Westphalia
+Kerpen,North Rhine-Westphalia
+Rüsselsheim,Hesse
+Weimar,Thuringia
+Plauen,Saxony
+Sindelfingen,Baden-Württemberg
+Neuwied,Rhineland-Palatinate
+Dormagen,North Rhine-Westphalia
+Neubrandenburg,Mecklenburg-Western Pomerania
+Grevenbroich,North Rhine-Westphalia
+Rosenheim,Bavaria
+Herten,North Rhine-Westphalia
+Bergheim,North Rhine-Westphalia
+Schwäbisch Gmünd,Baden-Württemberg
+Friedrichshafen,Baden-Württemberg
+Garbsen,Lower Saxony
+Wesel,North Rhine-Westphalia
+Hürth,North Rhine-Westphalia
+Offenburg,Baden-Württemberg
+Stralsund,Mecklenburg-Western Pomerania
+Greifswald,Mecklenburg-Western Pomerania
+Langenfeld,North Rhine-Westphalia
+Neu-Ulm,Bavaria
+Unna,North Rhine-Westphalia
+Euskirchen,North Rhine-Westphalia
+Frankfurt (Oder),Brandenburg
+Göppingen,Baden-Württemberg
+Hameln,Lower Saxony
+Stolberg,North Rhine-Westphalia
+Eschweiler,North Rhine-Westphalia
+Görlitz,Saxony
+Langenhagen,Lower Saxony
+Meerbusch,North Rhine-Westphalia
+Sankt Augustin,North Rhine-Westphalia
+Hilden,North Rhine-Westphalia
+Waiblingen,Baden-Württemberg
+Baden-Baden,Baden-Württemberg
+Hattingen,North Rhine-Westphalia
+Lingen,Lower Saxony
+Bad Homburg,Hesse
+Bad Salzuflen,North Rhine-Westphalia
+Pulheim,North Rhine-Westphalia
+Schweinfurt,Bavaria
+Nordhorn,Lower Saxony
+Neustadt,Rhineland-Palatinate
+Wetzlar,Hesse
+Ahlen,North Rhine-Westphalia
+Frechen,North Rhine-Westphalia
+Passau,Bavaria
+Wolfenbüttel,Lower Saxony
+Ibbenbüren,North Rhine-Westphalia
+Kleve,North Rhine-Westphalia
+Bad Kreuznach,Rhineland-Palatinate
+Goslar,Lower Saxony
+Gummersbach,North Rhine-Westphalia
+Ravensburg,Baden-Württemberg
+Willich,North Rhine-Westphalia
+Speyer,Rhineland-Palatinate
+Böblingen,Baden-Württemberg
+Peine,Lower Saxony
+Emden,Lower Saxony
+Elmshorn,Schleswig-Holstein
+Erftstadt,North Rhine-Westphalia
+Rastatt,Baden-Württemberg
+Heidenheim,Baden-Württemberg
+Lörrach,Baden-Württemberg
+Leonberg,Baden-Württemberg
+Bergkamen,North Rhine-Westphalia
+Bad Oeynhausen,North Rhine-Westphalia
+Freising,Bavaria
+Rheda-Wiedenbrück,North Rhine-Westphalia
+Cuxhaven,Lower Saxony
+Bornheim,North Rhine-Westphalia
+Gronau,North Rhine-Westphalia
+Straubing,Bavaria
+Stade,Lower Saxony
+Soest,North Rhine-Westphalia
+Dachau,Bavaria
+Alsdorf,North Rhine-Westphalia
+Landau,Rhineland-Palatinate
+Dülmen,North Rhine-Westphalia
+Melle,Lower Saxony
+Neunkirchen,Saarland
+Herzogenrath,North Rhine-Westphalia
+Schwerte,North Rhine-Westphalia
+Oberursel,Hesse
+Wittenberg,Saxony-Anhalt
+Hof,Bavaria
+Filderstadt,Baden-Württemberg
+Gotha,Thuringia
+Fellbach,Baden-Württemberg
+Bünde,North Rhine-Westphalia
+Albstadt,Baden-Württemberg
+Weinheim,Baden-Württemberg
+Rodgau,Hesse
+Bruchsal,Baden-Württemberg
+Oranienburg,Brandenburg
+Brühl,North Rhine-Westphalia
+Erkrath,North Rhine-Westphalia
+Neustadt am Rübenberge,Lower Saxony
+Lehrte,Lower Saxony
+Kaufbeuren,Bavaria
+Falkensee,Brandenburg
+Memmingen,Bavaria
+Kaarst,North Rhine-Westphalia
+Erkelenz,North Rhine-Westphalia
+Pinneberg,Schleswig-Holstein
+Bietigheim-Bissingen,Baden-Württemberg
+Kamen,North Rhine-Westphalia
+Wismar,Mecklenburg-Western Pomerania
+Borken,North Rhine-Westphalia
+Gifhorn,Lower Saxony
+Nettetal,North Rhine-Westphalia
+Eisenach,Thuringia
+Dreieich,Hesse
+Aurich,Lower Saxony
+Amberg,Bavaria
+Heinsberg,North Rhine-Westphalia
+Ansbach,Bavaria
+Homburg,Saarland
+Nordhausen,Thuringia
+Wunstorf,Lower Saxony
+Seevetal,Lower Saxony
+Siegburg,North Rhine-Westphalia
+Laatzen,Lower Saxony
+Germering,Bavaria
+Coburg,Bavaria
+Königswinter,North Rhine-Westphalia
+Nürtingen,Baden-Württemberg
+Freiberg,Saxony
+Schwabach,Bavaria
+Lemgo,North Rhine-Westphalia
+Kirchheim unter Teck,Baden-Württemberg
+Bensheim,Hesse
+Schwäbisch Hall,Baden-Württemberg
+Weißenfels,Saxony-Anhalt
+Pirmasens,Rhineland-Palatinate
+Eberswalde,Brandenburg
+Halberstadt,Saxony-Anhalt
+Buxtehude,Lower Saxony
+Leinfelden-Echterdingen,Baden-Württemberg
+Neumarkt,Bavaria
+Hückelhoven,North Rhine-Westphalia
+Hofheim,Hesse
+Löhne,North Rhine-Westphalia
+Schorndorf,Baden-Württemberg
+Stendal,Saxony-Anhalt
+Freital,Saxony
+Völklingen,Saarland
+Ettlingen,Baden-Württemberg
+Ostfildern,Baden-Württemberg
+Maintal,Hesse
+Buchholz in der Nordheide,Lower Saxony
+Ahaus,North Rhine-Westphalia
+Ilmenau,Thuringia
+Mettmann,North Rhine-Westphalia
+Würselen,North Rhine-Westphalia
+Bitterfeld,Saxony
+Bautzen,Saxony
+Pirna,Saxony
+Niederkassel,North Rhine-Westphalia
+Langen,Hesse
+Greven,North Rhine-Westphalia
+Fürstenfeldbruck,Bavaria
+Neu Isenburg,Hesse
+Papenburg,Lower Saxony
+Kamp-Lintfort,North Rhine-Westphalia
+Backnang,Baden-Württemberg
+Warendorf,North Rhine-Westphalia
+Königs Wusterhausen,Brandenburg
+Suhl,Thuringia
+Beckum,North Rhine-Westphalia
+Erding,Bavaria
+Coesfeld,North Rhine-Westphalia
+Mühlhausen,Thuringia
+Wesseling,North Rhine-Westphalia
+Kehl,Baden-Württemberg
+Emsdetten,North Rhine-Westphalia
+Tuttlingen,Baden-Württemberg
+Sankt Ingbert,Saarland
+Porta Westfalica,North Rhine-Westphalia
+Sinsheim,Baden-Württemberg
+Meppen,Lower Saxony
+Limburg,Hesse
+Ingelheim,Rhineland-Palatinate
+Lage,North Rhine-Westphalia
+Cloppenburg,Lower Saxony
+Winsen,Lower Saxony
+Mörfelden-Walldorf,Hesse
+Wermelskirchen,North Rhine-Westphalia
+Datteln,North Rhine-Westphalia
+Kempen,North Rhine-Westphalia
+Saarlouis,Saarland
+Leer,Lower Saxony
+Seelze,Lower Saxony
+Crailsheim,Baden-Württemberg
+Barsinghausen,Lower Saxony
+Balingen,Baden-Württemberg
+Zweibrücken,Rhineland-Palatinate
+Viernheim,Hesse
+Steinfurt,North Rhine-Westphalia
+Merseburg,Saxony-Anhalt
+Hemer,North Rhine-Westphalia
+Dietzenbach,Hesse
+Radebeul,Saxony
+Bad Vilbel,Hesse
+Geldern,North Rhine-Westphalia
+Goch,North Rhine-Westphalia
+Kornwestheim,Baden-Württemberg
+Stuhr,Lower Saxony
+Uelzen,Lower Saxony
+Deggendorf,Bavaria
+Wedel,Schleswig-Holstein
+Ahrensburg,Schleswig-Holstein
+Rheinfelden (Baden),Baden-Württemberg
+Korschenbroich,North Rhine-Westphalia
+Biberach,Baden-Württemberg
+Wernigerode,Saxony-Anhalt
+Bernburg,Saxony-Anhalt
+Jülich,North Rhine-Westphalia
+Lampertheim,Hesse
+Vechta,Lower Saxony
+Naumburg,Saxony-Anhalt
+Forchheim,Bavaria
+Bad Nauheim,Hesse
+Hoyerswerda,Saxony
+Altenburg,Thuringia
+Delbrück,North Rhine-Westphalia
+Fürstenwalde,Brandenburg
+Achim,Lower Saxony
+Itzehoe,Schleswig-Holstein
+Georgsmarienhütte,Lower Saxony
+Herrenberg,Baden-Württemberg
+Oer-Erkenschwick,North Rhine-Westphalia
+Radolfzell am Bodensee,Baden-Württemberg
+Kreuztal,North Rhine-Westphalia
+Ganderkesee,Lower Saxony
+Rheinberg,North Rhine-Westphalia
+Bramsche,Lower Saxony
+Neuruppin,Brandenburg
+Einbeck,Lower Saxony
+Werl,North Rhine-Westphalia
+Schönebeck,Saxony-Anhalt
+Burgdorf,Lower Saxony
+Gevelsberg,North Rhine-Westphalia
+Weyhe,Lower Saxony
+Geesthacht,Schleswig-Holstein
+Haan,North Rhine-Westphalia
+Lohmar,North Rhine-Westphalia
+Osterholz-Scharmbeck,Lower Saxony
+Weil am Rhein,Baden-Württemberg
+Ennepetal,North Rhine-Westphalia
+Riesa,Saxony
+Taunusstein,Hesse
+Andernach,Rhineland-Palatinate
+Meschede,North Rhine-Westphalia
+Schwedt (Oder),Brandenburg
+Friedberg,Bavaria
+Bad Hersfeld,Hesse
+Gaggenau,Baden-Württemberg
+Merzig,Saarland
+Neuburg,Bavaria
+Werve,North Rhine-Westphalia
+Vaihingen an der Enz,Baden-Württemberg
+Rietberg,North Rhine-Westphalia
+Saalfeld,Thuringia
+Bretten,Baden-Württemberg
+Waltrop,North Rhine-Westphalia
+Oelde,North Rhine-Westphalia
+Tönisvorst,North Rhine-Westphalia
+Güstrow,Mecklenburg-Western Pomerania
+Friedberg,Hesse
+Landsberg,Bavaria
+Northeim,Lower Saxony
+Kelkheim (Taunus),Hesse
+Springe,Lower Saxony
+Unterschleißheim,Bavaria
+Bühl,Baden-Württemberg
+Schwandorf,Bavaria
+Höxter,North Rhine-Westphalia
+Rösrath,North Rhine-Westphalia
+Bad Zwischenahn,Lower Saxony
+Schwelm,North Rhine-Westphalia
+Rendsburg,Schleswig-Holstein
+Winnenden,Baden-Württemberg
+Bad Neuenahr-Ahrweiler,Rhineland-Palatinate
+Grimma,Saxony
+Wegberg,North Rhine-Westphalia
+Geislingen an der Steige,Baden-Württemberg
+Königsbrunn,Bavaria
+Henstedt-Ulzburg,Schleswig-Holstein
+Meißen,Saxony
+Leichlingen,North Rhine-Westphalia
+Kevelaer,North Rhine-Westphalia
+Zeitz,Saxony-Anhalt
+Emmendingen,Baden-Württemberg
+Blankenfelde,Brandenburg
+Sundern,North Rhine-Westphalia
+Baunatal,Hesse
+Reinbek,Schleswig-Holstein
+Mechernich,North Rhine-Westphalia
+Hattersheim,Hesse
+Wetter (Ruhr),North Rhine-Westphalia
+Griesheim,Hesse
+Arnstadt,Thuringia
+Aschersleben,Saxony-Anhalt
+Geilenkirchen,North Rhine-Westphalia
+Rheinbach,North Rhine-Westphalia
+Overath,North Rhine-Westphalia
+Baesweiler,North Rhine-Westphalia
+Leimen,Baden-Württemberg
+Wangen im Allgäu,Baden-Württemberg
+Schloß Holte-Stukenbrock,North Rhine-Westphalia
+Lohne,Lower Saxony
+Wiesloch,Baden-Württemberg
+Hamminkeln,North Rhine-Westphalia
+Strausberg,Brandenburg
+Lauf,Bavaria
+Neckarsulm,Baden-Württemberg
+Heiligenhaus,North Rhine-Westphalia
+Sangerhausen,Saxony-Anhalt
+Hennigsdorf,Brandenburg
+Ehingen an der Donau,Baden-Württemberg
+Butzbach,Hesse
+Nordenham,Lower Saxony
+Hohen Neuendorf,Brandenburg
+Ludwigsfelde,Brandenburg
+Mühlacker,Baden-Württemberg
+Heppenheim,Hesse
+Selm,North Rhine-Westphalia
+Weiterstadt,Hesse
+Pfaffenhofen,Bavaria
+Kulmbach,Bavaria
+Sankt Wendel,Saarland
+Teltow,Brandenburg
+Bad Honnef am Rhein,North Rhine-Westphalia
+Helmstedt,Lower Saxony
+Bingen am Rhein,Rhineland-Palatinate
+Achern,Baden-Württemberg
+Zirndorf,Bavaria
+Roth,Bavaria
+Lennestadt,North Rhine-Westphalia
+Verl,North Rhine-Westphalia
+Lindau,Bavaria
+Lübbecke,North Rhine-Westphalia
+Rinteln,Lower Saxony
+Brilon,North Rhine-Westphalia
+Staßfurt,Saxony-Anhalt
+Zittau,Saxony
+Plettenberg,North Rhine-Westphalia
+Groß-Gerau,Hesse
+Schleswig,Schleswig-Holstein
+Geretsried,Bavaria
+Rottweil,Baden-Württemberg
+Friedrichsdorf,Hesse
+Petershagen,North Rhine-Westphalia
+Pfungstadt,Hesse
+Bad Oldesloe,Schleswig-Holstein
+Olpe,North Rhine-Westphalia
+Rathenow,Brandenburg
+Senftenberg,Brandenburg
+Meiningen,Thuringia
+Waldshut-Tiengen,Baden-Württemberg
+Sonneberg,Thuringia
+Salzwedel,Saxony-Anhalt
+Calw,Baden-Württemberg
+Korbach,Hesse
+Starnberg,Bavaria
+Freudenstadt,Baden-Württemberg
+Mosbach,Baden-Württemberg
+Husum,Schleswig-Holstein
+Westerstede,Lower Saxony
+Burg,Saxony-Anhalt
+Weilheim,Bavaria
+Bad Kissingen,Bavaria
+Stadthagen,Lower Saxony
+Apolda,Thuringia
+Heide,Schleswig-Holstein
+Osterode,Lower Saxony
+Kitzingen,Bavaria
+Sonthofen,Bavaria
+Sondershausen,Thuringia
+Aichach,Bavaria
+Germersheim,Rhineland-Palatinate
+Günzburg,Bavaria
+Luckenwalde,Brandenburg
+Traunstein,Bavaria
+Mühldorf,Bavaria
+Wittmund,Lower Saxony
+Bad Salzungen,Thuringia
+Lichtenfels,Bavaria
+Greiz,Thuringia
+Donauwörth,Bavaria
+Torgau,Saxony
+Holzminden,Lower Saxony
+Dingolfing,Bavaria
+Annaberg-Buchholz,Saxony
+Eschwege,Hesse
+Haldensleben,Saxony-Anhalt
+Sömmerda,Thuringia
+Prenzlau,Brandenburg
+Wittlich,Rhineland-Palatinate
+Dillingen,Bavaria
+Bad Tölz,Bavaria
+Marktoberdorf,Bavaria
+Alzey,Rhineland-Palatinate
+Bad Dürkheim,Rhineland-Palatinate
+Weißenburg,Bavaria
+Bad Reichenhall,Bavaria
+Forst (Lausitz),Brandenburg
+Parchim,Mecklenburg-Western Pomerania
+Sigmaringen,Baden-Württemberg
+Bad Segeberg,Schleswig-Holstein
+Heilbad Heiligenstadt,Thuringia
+Eutin,Schleswig-Holstein
+Cham,Bavaria
+Diepholz,Lower Saxony
+Kronach,Bavaria
+Kelheim,Bavaria
+Bad Neustadt,Bavaria
+Künzelsau,Baden-Württemberg
+Mindelheim,Bavaria
+Brake,Lower Saxony
+Bitburg,Rhineland-Palatinate
+Ratzeburg,Schleswig-Holstein
+Jever,Lower Saxony
+Lübben (Spreewald),Brandenburg
+Montabaur,Rhineland-Palatinate
+Erbach,Hesse
+Lauterbach,Hesse
+Haßfurt,Bavaria
+Eichstätt,Bavaria
+Tauberbischofsheim,Baden-Württemberg
+Neustadt,Bavaria
+Pfarrkirchen,Bavaria
+Ebersberg,Bavaria
+Perleberg,Brandenburg
+Bad Fallingbostel,Lower Saxony
+Hildburghausen,Thuringia
+Miesbach,Bavaria
+Bad Schwalbach,Hesse
+Regen,Bavaria
+Eisenberg,Thuringia
+Altötting,Bavaria
+Bad Ems,Rhineland-Palatinate
+Lüchow,Lower Saxony
+Miltenberg,Bavaria
+Wunsiedel,Bavaria
+Herzberg,Brandenburg
+Plön,Schleswig-Holstein
+Schleiz,Thuringia
+Tirschenreuth,Bavaria
+Beeskow,Brandenburg
+Daun,Rhineland-Palatinate
+Simmern,Rhineland-Palatinate
+Kirchheimbolanden,Rhineland-Palatinate
+Freyung,Bavaria
+Birkenfeld,Rhineland-Palatinate
+Altenkirchen,Rhineland-Palatinate
+Neustadt,Bavaria
+Seelow,Brandenburg
+Kusel,Rhineland-Palatinate
+Cochem,Rhineland-Palatinate
+Offenbach,Hesse
+Frankenthal,Rhineland-Palatinate
+Weiden,Bavaria
+Nienburg,Lower Saxony
+Verden,Lower Saxony
+Köthen,Saxony-Anhalt
+Rotenburg,Lower Saxony
+Karlstadt,Bavaria
+Neustadt,Hesse
+Homberg,Hesse
+Garmisch-Partenkirchen,Bavaria

@@ -1,0 +1,1739 @@
+city,province_name
+Toronto,Ontario
+Montreal,Quebec
+Vancouver,British Columbia
+Calgary,Alberta
+Edmonton,Alberta
+Ottawa,Ontario
+Mississauga,Ontario
+Winnipeg,Manitoba
+Quebec City,Quebec
+Hamilton,Ontario
+Brampton,Ontario
+Surrey,British Columbia
+Kitchener,Ontario
+Laval,Quebec
+Halifax,Nova Scotia
+London,Ontario
+Victoria,British Columbia
+Markham,Ontario
+St. Catharines,Ontario
+Niagara Falls,Ontario
+Vaughan,Ontario
+Gatineau,Quebec
+Windsor,Ontario
+Saskatoon,Saskatchewan
+Longueuil,Quebec
+Burnaby,British Columbia
+Regina,Saskatchewan
+Richmond,British Columbia
+Richmond Hill,Ontario
+Oakville,Ontario
+Burlington,Ontario
+Barrie,Ontario
+Oshawa,Ontario
+Sherbrooke,Quebec
+Saguenay,Quebec
+Lévis,Quebec
+Kelowna,British Columbia
+Abbotsford,British Columbia
+Coquitlam,British Columbia
+Trois-Rivières,Quebec
+Guelph,Ontario
+Cambridge,Ontario
+Whitby,Ontario
+Ajax,Ontario
+Langley,British Columbia
+Saanich,British Columbia
+Terrebonne,Quebec
+Milton,Ontario
+St. John's,Newfoundland and Labrador
+Moncton,New Brunswick
+Thunder Bay,Ontario
+Dieppe,New Brunswick
+Waterloo,Ontario
+Delta,British Columbia
+Chatham,Ontario
+Red Deer,Alberta
+Kamloops,British Columbia
+Brantford,Ontario
+Cape Breton,Nova Scotia
+Lethbridge,Alberta
+Saint-Jean-sur-Richelieu,Quebec
+Clarington,Ontario
+Pickering,Ontario
+Nanaimo,British Columbia
+Sudbury,Ontario
+North Vancouver,British Columbia
+Brossard,Quebec
+Repentigny,Quebec
+Newmarket,Ontario
+Chilliwack,British Columbia
+White Rock,British Columbia
+Maple Ridge,British Columbia
+Peterborough,Ontario
+Kawartha Lakes,Ontario
+Prince George,British Columbia
+Sault Ste. Marie,Ontario
+Sarnia,Ontario
+Wood Buffalo,Alberta
+New Westminster,British Columbia
+Châteauguay,Quebec
+Saint-Jérôme,Quebec
+Drummondville,Quebec
+Saint John,New Brunswick
+Caledon,Ontario
+St. Albert,Alberta
+Granby,Quebec
+Medicine Hat,Alberta
+Grande Prairie,Alberta
+St. Thomas,Ontario
+Airdrie,Alberta
+Halton Hills,Ontario
+Saint-Hyacinthe,Quebec
+Lac-Brome,Quebec
+Port Coquitlam,British Columbia
+Fredericton,New Brunswick
+Blainville,Quebec
+Aurora,Ontario
+Welland,Ontario
+North Bay,Ontario
+Beloeil,Quebec
+Belleville,Ontario
+Mirabel,Quebec
+Shawinigan,Quebec
+Dollard-des-Ormeaux,Quebec
+Brandon,Manitoba
+Rimouski,Quebec
+Cornwall,Ontario
+Stouffville,Ontario
+Georgina,Ontario
+Victoriaville,Quebec
+Vernon,British Columbia
+Duncan,British Columbia
+Saint-Eustache,Quebec
+Quinte West,Ontario
+Charlottetown,Prince Edward Island
+Mascouche,Quebec
+West Vancouver,British Columbia
+Salaberry-de-Valleyfield,Quebec
+Rouyn-Noranda,Quebec
+Timmins,Ontario
+Sorel-Tracy,Quebec
+New Tecumseth,Ontario
+Woodstock,Ontario
+Boucherville,Quebec
+Mission,British Columbia
+Vaudreuil-Dorion,Quebec
+Brant,Ontario
+Lakeshore,Ontario
+Innisfil,Ontario
+Prince Albert,Saskatchewan
+Langford Station,British Columbia
+Bradford West Gwillimbury,Ontario
+Campbell River,British Columbia
+Spruce Grove,Alberta
+Moose Jaw,Saskatchewan
+Penticton,British Columbia
+Port Moody,British Columbia
+Leamington,Ontario
+East Kelowna,British Columbia
+Côte-Saint-Luc,Quebec
+Val-d’Or,Quebec
+Owen Sound,Ontario
+Stratford,Ontario
+Lloydminster,Saskatchewan
+Pointe-Claire,Quebec
+Orillia,Ontario
+Alma,Quebec
+Orangeville,Ontario
+Fort Erie,Ontario
+LaSalle,Ontario
+Sainte-Julie,Quebec
+Leduc,Alberta
+North Cowichan,British Columbia
+Chambly,Quebec
+Okotoks,Alberta
+Sept-Îles,Quebec
+Centre Wellington,Ontario
+Saint-Constant,Quebec
+Grimsby,Ontario
+Boisbriand,Quebec
+Conception Bay South,Newfoundland and Labrador
+Saint-Bruno-de-Montarville,Quebec
+Sainte-Thérèse,Quebec
+Cochrane,Alberta
+Thetford Mines,Quebec
+Courtenay,British Columbia
+Magog,Quebec
+Whitehorse,Yukon
+Woolwich,Ontario
+Clarence-Rockland,Ontario
+Fort Saskatchewan,Alberta
+East Gwillimbury,Ontario
+Lincoln,Ontario
+La Prairie,Quebec
+Tecumseh,Ontario
+Mount Pearl Park,Newfoundland and Labrador
+Amherstburg,Ontario
+Saint-Lambert,Quebec
+Brockville,Ontario
+Collingwood,Ontario
+Scugog,Ontario
+Kingsville,Ontario
+Baie-Comeau,Quebec
+Paradise,Newfoundland and Labrador
+Uxbridge,Ontario
+Essa,Ontario
+Candiac,Quebec
+Oro-Medonte,Ontario
+Varennes,Quebec
+Strathroy-Caradoc,Ontario
+Wasaga Beach,Ontario
+New Glasgow,Nova Scotia
+Wilmot,Ontario
+Essex,Ontario
+Fort St. John,British Columbia
+Kirkland,Quebec
+L’Assomption,Quebec
+Westmount,Quebec
+Saint-Lazare,Quebec
+Chestermere,Alberta
+Huntsville,Ontario
+Corner Brook,Newfoundland and Labrador
+Riverview,New Brunswick
+Lloydminster,Alberta
+Joliette,Quebec
+Yellowknife,Northwest Territories
+Squamish,British Columbia
+Mont-Royal,Quebec
+Rivière-du-Loup,Quebec
+Cobourg,Ontario
+Cranbrook,British Columbia
+Beaconsfield,Quebec
+Springwater,Ontario
+Dorval,Quebec
+Thorold,Ontario
+Camrose,Alberta
+South Frontenac,Ontario
+Pitt Meadows,British Columbia
+Port Colborne,Ontario
+Quispamsis,New Brunswick
+Mont-Saint-Hilaire,Quebec
+Bathurst,New Brunswick
+Saint-Augustin-de-Desmaures,Quebec
+Oak Bay,British Columbia
+Sainte-Marthe-sur-le-Lac,Quebec
+Salmon Arm,British Columbia
+Port Alberni,British Columbia
+Esquimalt,British Columbia
+Deux-Montagnes,Quebec
+Miramichi,New Brunswick
+Niagara-on-the-Lake,Ontario
+Saint-Lin--Laurentides,Quebec
+Beaumont,Alberta
+Middlesex Centre,Ontario
+Inverness,Nova Scotia
+Stony Plain,Alberta
+Petawawa,Ontario
+Pelham,Ontario
+Selwyn,Ontario
+Loyalist,Ontario
+Midland,Ontario
+Colwood,British Columbia
+Central Saanich,British Columbia
+Sainte-Catherine,Quebec
+Port Hope,Ontario
+L’Ancienne-Lorette,Quebec
+Saint-Basile-le-Grand,Quebec
+Swift Current,Saskatchewan
+Edmundston,New Brunswick
+Russell,Ontario
+North Grenville,Ontario
+Yorkton,Saskatchewan
+Tracadie,New Brunswick
+Bracebridge,Ontario
+Greater Napanee,Ontario
+Tillsonburg,Ontario
+Steinbach,Manitoba
+Hanover,Manitoba
+Terrace,British Columbia
+Springfield,Manitoba
+Gaspé,Quebec
+Kenora,Ontario
+Cold Lake,Alberta
+Summerside,Prince Edward Island
+Comox,British Columbia
+Sylvan Lake,Alberta
+Pincourt,Quebec
+West Lincoln,Ontario
+Matane,Quebec
+Brooks,Alberta
+Sainte-Anne-des-Plaines,Quebec
+West Nipissing / Nipissing Ouest,Ontario
+Rosemère,Quebec
+Mistassini,Quebec
+Grand Falls,Newfoundland and Labrador
+Clearview,Ontario
+St. Clair,Ontario
+Canmore,Alberta
+North Battleford,Saskatchewan
+Pembroke,Ontario
+Mont-Laurier,Quebec
+Strathmore,Alberta
+Saugeen Shores,Ontario
+Thompson,Manitoba
+Lavaltrie,Quebec
+High River,Alberta
+Severn,Ontario
+Sainte-Sophie,Quebec
+Saint-Charles-Borromée,Quebec
+Portage La Prairie,Manitoba
+Thames Centre,Ontario
+Mississippi Mills,Ontario
+Powell River,British Columbia
+South Glengarry,Ontario
+North Perth,Ontario
+Mercier,Quebec
+South Stormont,Ontario
+Saint-Colomban,Quebec
+Lacombe,Alberta
+Sooke,British Columbia
+Dawson Creek,British Columbia
+Lake Country,British Columbia
+Trent Hills,Ontario
+Sainte-Marie,Quebec
+Guelph/Eramosa,Ontario
+Truro,Nova Scotia
+Amos,Quebec
+The Nation / La Nation,Ontario
+Ingersoll,Ontario
+Winkler,Manitoba
+Wetaskiwin,Alberta
+Central Elgin,Ontario
+Lachute,Quebec
+West Grey,Ontario
+Parksville,British Columbia
+Cowansville,Quebec
+Bécancour,Quebec
+Gravenhurst,Ontario
+Perth East,Ontario
+Prince Rupert,British Columbia
+Prévost,Quebec
+Sainte-Adèle,Quebec
+Kentville,Nova Scotia
+Beauharnois,Quebec
+Les Îles-de-la-Madeleine,Quebec
+Wellington North,Ontario
+St. Andrews,Manitoba
+Carleton Place,Ontario
+Whistler,British Columbia
+Brighton,Ontario
+Tiny,Ontario
+Gander,Newfoundland and Labrador
+Sidney,British Columbia
+Rothesay,New Brunswick
+Brock,Ontario
+Summerland,British Columbia
+Val-des-Monts,Quebec
+Taché,Manitoba
+Montmagny,Quebec
+Erin,Ontario
+Kincardine,Ontario
+North Dundas,Ontario
+Wellesley,Ontario
+Estevan,Saskatchewan
+North Saanich,British Columbia
+Warman,Saskatchewan
+La Tuque,Quebec
+Norwich,Ontario
+Meaford,Ontario
+Adjala-Tosorontio,Ontario
+Hamilton Township,Ontario
+St. Clements,Manitoba
+Saint-Amable,Quebec
+Weyburn,Saskatchewan
+South Dundas,Ontario
+L’Île-Perrot,Quebec
+Notre-Dame-de-l'Île-Perrot,Quebec
+Williams Lake,British Columbia
+Elliot Lake,Ontario
+Cantley,Quebec
+Nelson,British Columbia
+Lambton Shores,Ontario
+Mapleton,Ontario
+Georgian Bluffs,Ontario
+Rawdon,Quebec
+Campbellton,New Brunswick
+View Royal,British Columbia
+Coldstream,British Columbia
+Chester,Nova Scotia
+Queens,Nova Scotia
+Selkirk,Manitoba
+Saint-Félicien,Quebec
+Hawkesbury,Ontario
+Roberval,Quebec
+Sainte-Agathe-des-Monts,Quebec
+North Dumfries,Ontario
+Rideau Lakes,Ontario
+Sechelt,British Columbia
+North Glengarry,Ontario
+South Huron,Ontario
+Marieville,Quebec
+Tay,Ontario
+Temiskaming Shores,Ontario
+Hinton,Alberta
+Saint-Sauveur,Quebec
+Quesnel,British Columbia
+Elizabethtown-Kitley,Ontario
+Morinville,Alberta
+Grey Highlands,Ontario
+Stratford,Prince Edward Island
+Alfred and Plantagenet,Ontario
+Mont-Tremblant,Quebec
+Martensville,Saskatchewan
+Saint-Raymond,Quebec
+Amherst,Nova Scotia
+Ramara,Ontario
+Bois-des-Filion,Quebec
+Leeds and the Thousand Islands,Ontario
+Carignan,Quebec
+Brockton,Ontario
+Laurentian Valley,Ontario
+East St. Paul,Manitoba
+Lorraine,Quebec
+Sainte-Julienne,Quebec
+Blackfalds,Alberta
+Malahide,Ontario
+Oromocto,New Brunswick
+Olds,Alberta
+Huron East,Ontario
+Stanley,Manitoba
+Penetanguishene,Ontario
+Qualicum Beach,British Columbia
+Notre-Dame-des-Prairies,Quebec
+West Perth,Ontario
+Cavan Monaghan,Ontario
+Arnprior,Ontario
+Smiths Falls,Ontario
+Pont-Rouge,Quebec
+Champlain,Ontario
+Coaticook,Quebec
+Minto,Ontario
+Morden,Manitoba
+Mono,Ontario
+Corman Park No. 344,Saskatchewan
+Ladysmith,British Columbia
+Bridgewater,Nova Scotia
+Dauphin,Manitoba
+Otterburn Park,Quebec
+Taber,Alberta
+South Bruce Peninsula,Ontario
+Edson,Alberta
+Farnham,Quebec
+Kapuskasing,Ontario
+La Malbaie,Quebec
+Renfrew,Ontario
+Coaldale,Alberta
+Portugal Cove-St. Philip's,Newfoundland and Labrador
+Zorra,Ontario
+Kitimat,British Columbia
+Shelburne,Ontario
+Happy Valley,Newfoundland and Labrador
+Saint-Hippolyte,Quebec
+Castlegar,British Columbia
+Church Point,Nova Scotia
+Drumheller,Alberta
+Kirkland Lake,Ontario
+Argyle,Nova Scotia
+Torbay,Newfoundland and Labrador
+La Pêche,Quebec
+Banff,Alberta
+Innisfail,Alberta
+Nicolet,Quebec
+Rockwood,Manitoba
+Drummond/North Elmsley,Ontario
+Dryden,Ontario
+Iqaluit,Nunavut
+Fort Frances,Ontario
+La Sarre,Quebec
+Trail,British Columbia
+Chandler,Quebec
+Stone Mills,Ontario
+Hanover,Ontario
+South-West Oxford,Ontario
+Acton Vale,Quebec
+Bromont,Quebec
+Beckwith,Ontario
+Goderich,Ontario
+Plympton-Wyoming,Ontario
+Central Huron,Ontario
+Rigaud,Quebec
+Louiseville,Quebec
+Chibougamau,Quebec
+Aylmer,Ontario
+Delson,Quebec
+Kimberley,British Columbia
+Blandford-Blenheim,Ontario
+Bayham,Ontario
+Augusta,Ontario
+Puslinch,Ontario
+Beauport,Quebec
+Saint-Rémi,Quebec
+St. Marys,Ontario
+Drayton Valley,Alberta
+Ponoka,Alberta
+Labrador City,Newfoundland and Labrador
+Donnacona,Quebec
+Southgate,Ontario
+McNab/Braeside,Ontario
+Macdonald,Manitoba
+Hampstead,Quebec
+Baie-Saint-Paul,Quebec
+Merritt,British Columbia
+Bluewater,Ontario
+East Zorra-Tavistock,Ontario
+Brownsburg,Quebec
+Stoneham-et-Tewkesbury,Quebec
+Asbestos,Quebec
+Huron-Kinloss,Ontario
+Coteau-du-Lac,Quebec
+The Blue Mountains,Ontario
+Whitewater Region,Ontario
+Edwardsburgh/Cardinal,Ontario
+Sainte-Anne-des-Monts,Quebec
+Old Chelsea,Quebec
+North Stormont,Ontario
+Alnwick/Haldimand,Ontario
+Peace River,Alberta
+Arran-Elderslie,Ontario
+Saint-Zotique,Quebec
+Val-Shefford,Quebec
+Douro-Dummer,Ontario
+Plessisville,Quebec
+Ritchot,Manitoba
+Otonabee-South Monaghan,Ontario
+Shediac,New Brunswick
+Slave Lake,Alberta
+Port-Cartier,Quebec
+Saint-Lambert-de-Lauzon,Quebec
+Barrington,Nova Scotia
+Rocky Mountain House,Alberta
+Chatsworth,Ontario
+Stephenville,Newfoundland and Labrador
+Muskoka Falls,Ontario
+Devon,Alberta
+Yarmouth,Nova Scotia
+Boischatel,Quebec
+Parry Sound,Ontario
+Pointe-Calumet,Quebec
+Beaubassin East / Beaubassin-est,New Brunswick
+Wainfleet,Ontario
+Cramahe,Ontario
+Beauceville,Quebec
+North Middlesex,Ontario
+Amqui,Quebec
+Sainte-Catherine-de-la-Jacques-Cartier,Quebec
+Clarenville,Newfoundland and Labrador
+Mont-Joli,Quebec
+Dysart et al,Ontario
+Wainwright,Alberta
+Contrecoeur,Quebec
+Beresford,New Brunswick
+Saint-Joseph-du-Lac,Quebec
+Hope,British Columbia
+Gimli,Manitoba
+Douglas,New Brunswick
+Saint-Apollinaire,Quebec
+Hindon Hill,Ontario
+Les Cèdres,Quebec
+La Broquerie,Manitoba
+Kent,British Columbia
+Tweed,Ontario
+Saint-Félix-de-Valois,Quebec
+Bay Roberts,Newfoundland and Labrador
+Melfort,Saskatchewan
+Bonnyville,Alberta
+Stettler,Alberta
+Saint-Calixte,Quebec
+Lac-Mégantic,Quebec
+Perth,Ontario
+Oliver Paipoonge,Ontario
+Humboldt,Saskatchewan
+Charlemagne,Quebec
+Pontiac,Quebec
+St. Paul,Alberta
+Petrolia,Ontario
+Southwest Middlesex,Ontario
+Front of Yonge,Ontario
+Vegreville,Alberta
+Sainte-Brigitte-de-Laval,Quebec
+Princeville,Quebec
+Verchères,Quebec
+The Pas,Manitoba
+Saint-Césaire,Quebec
+La Ronge,Saskatchewan
+Tay Valley,Ontario
+South Bruce,Ontario
+McMasterville,Quebec
+Redcliff,Alberta
+Crowsnest Pass,Alberta
+Saint-Philippe,Quebec
+Richelieu,Quebec
+Notre-Dame-du-Mont-Carmel,Quebec
+L'Ange-Gardien,Quebec
+Sainte-Martine,Quebec
+Saint-Pie,Quebec
+Peachland,British Columbia
+Ashfield-Colborne-Wawanosh,Ontario
+Trent Lakes,Ontario
+Northern Rockies,British Columbia
+Cookshire,Quebec
+West St. Paul,Manitoba
+Windsor,Quebec
+L’Epiphanie,Quebec
+Creston,British Columbia
+Smithers,British Columbia
+Cornwall,Prince Edward Island
+Meadow Lake,Saskatchewan
+Lanark Highlands,Ontario
+Sackville,New Brunswick
+Grand Falls,New Brunswick
+Cochrane,Ontario
+Marystown,Newfoundland and Labrador
+Sioux Lookout,Ontario
+Didsbury,Alberta
+Saint-Honoré,Quebec
+Fernie,British Columbia
+Deer Lake,Newfoundland and Labrador
+Woodstock,New Brunswick
+Val-David,Quebec
+Flin Flon,Saskatchewan
+Hudson,Quebec
+Gananoque,Ontario
+Brokenhead,Manitoba
+Saint-Paul,Quebec
+Burton,New Brunswick
+Spallumcheen,British Columbia
+Westlock,Alberta
+Témiscouata-sur-le-Lac,Quebec
+Shannon,Quebec
+Osoyoos,British Columbia
+Montréal-Ouest,Quebec
+Hearst,Ontario
+Saint-Henri,Quebec
+Ste. Anne,Manitoba
+Antigonish,Nova Scotia
+Espanola,Ontario
+West Elgin,Ontario
+Flin Flon (Part),Manitoba
+Grand Bay-Westfield,New Brunswick
+Sainte-Anne-de-Bellevue,Quebec
+North Huron,Ontario
+Oliver,British Columbia
+Saint-Roch-de-l'Achigan,Quebec
+Stirling-Rawdon,Ontario
+Chisasibi,Quebec
+Carbonear,Newfoundland and Labrador
+Saint Marys,New Brunswick
+Chertsey,Quebec
+Armstrong,British Columbia
+Stonewall,Manitoba
+Shippagan,New Brunswick
+Lanoraie,Quebec
+Memramcook,New Brunswick
+Centre Hastings,Ontario
+Warwick,Quebec
+East Ferris,Ontario
+Hanwell,New Brunswick
+Saint-Joseph-de-Beauce,Quebec
+Metchosin,British Columbia
+Lucan Biddulph,Ontario
+Rivière-Rouge,Quebec
+Greenstone,Ontario
+Saint-Mathias-sur-Richelieu,Quebec
+Neepawa,Manitoba
+Gibsons,British Columbia
+Kindersley,Saskatchewan
+Jasper,Alberta
+Barrhead,Alberta
+Les Coteaux,Quebec
+Melville,Saskatchewan
+Saint-Germain-de-Grantham,Quebec
+Iroquois Falls,Ontario
+Havelock-Belmont-Methuen,Ontario
+Cornwallis,Manitoba
+Saint-Boniface,Quebec
+Edenwold No. 158,Saskatchewan
+Coverdale,New Brunswick
+Vanderhoof,British Columbia
+Southwold,Ontario
+Goulds,Newfoundland and Labrador
+Saint Stephen,New Brunswick
+Waterloo,Quebec
+Nipawin,Saskatchewan
+Neuville,Quebec
+Saint-Cyrille-de-Wendover,Quebec
+Central Frontenac,Ontario
+Mont-Orford,Quebec
+Saint-Jean-de-Matha,Quebec
+Seguin,Ontario
+Tyendinaga,Ontario
+Hampton,New Brunswick
+Sussex,New Brunswick
+Grand Forks,British Columbia
+La Pocatière,Quebec
+Caraquet,New Brunswick
+Saint-Étienne-des-Grès,Quebec
+Altona,Manitoba
+Stellarton,Nova Scotia
+Wolfville,Nova Scotia
+New Maryland,New Brunswick
+Port Hardy,British Columbia
+Saint-Donat,Quebec
+Château-Richer,Quebec
+Madawaska Valley,Ontario
+Deep River,Ontario
+Asphodel-Norwood,Ontario
+Red Lake,Ontario
+Métabetchouan-Lac-à-la-Croix,Quebec
+Berthierville,Quebec
+Vermilion,Alberta
+Niverville,Manitoba
+Hastings Highlands,Ontario
+Carstairs,Alberta
+Danville,Quebec
+Channel-Port aux Basques,Newfoundland and Labrador
+Battleford,Saskatchewan
+Lac-Etchemin,Quebec
+Saint-Antonin,Quebec
+Saint-Jacques,Quebec
+Swan River,Manitoba
+Sutton,Quebec
+Northern Bruce Peninsula,Ontario
+L’Islet-sur-Mer,Quebec
+Carleton-sur-Mer,Quebec
+Oka,Quebec
+Prescott,Ontario
+Amaranth,Ontario
+Marmora and Lake,Ontario
+Maniwaki,Quebec
+Morin-Heights,Quebec
+Dundas,New Brunswick
+Napierville,Quebec
+Crabtree,Quebec
+Bancroft,Ontario
+Saint-Tite,Quebec
+Howick,Ontario
+Dutton/Dunwich,Ontario
+Callander,Ontario
+Simonds,New Brunswick
+Baie-d’Urfé,Quebec
+New Richmond,Quebec
+Perth South,Ontario
+Roxton Pond,Quebec
+Sparwood,British Columbia
+Claresholm,Alberta
+Breslau,Ontario
+Montague,Ontario
+Cumberland,British Columbia
+Beaupré,Quebec
+Saint-André-Avellin,Quebec
+Saint-Ambroise-de-Kildare,Quebec
+East Angus,Quebec
+Rossland,British Columbia
+Mackenzie,British Columbia
+Golden,British Columbia
+Raymond,Alberta
+Saint-Adolphe-d'Howard,Quebec
+Warwick,Ontario
+Bowen Island,British Columbia
+Bonnechere Valley,Ontario
+Windsor,Nova Scotia
+Pincher Creek,Alberta
+Alnwick,New Brunswick
+Westville,Nova Scotia
+Fruitvale,British Columbia
+Pasadena,Newfoundland and Labrador
+Saint-Prosper,Quebec
+Ormstown,Quebec
+Cardston,Alberta
+Westbank,British Columbia
+De Salaberry,Manitoba
+Headingley,Manitoba
+Grande Cache,Alberta
+Atholville,New Brunswick
+Saint-Agapit,Quebec
+Prince Albert No. 461,Saskatchewan
+Casselman,Ontario
+Saint-Ambroise,Quebec
+Hay River,Northwest Territories
+Mistissini,Quebec
+Studholm,New Brunswick
+Lumby,British Columbia
+Saint-Faustin--Lac-Carré,Quebec
+Morris-Turnberry,Ontario
+Placentia,Newfoundland and Labrador
+Saint-Pascal,Quebec
+Mulmur,Ontario
+Blind River,Ontario
+Dunham,Quebec
+Havre-Saint-Pierre,Quebec
+Saint-Anselme,Quebec
+Trois-Pistoles,Quebec
+Grande-Rivière,Quebec
+Powassan,Ontario
+Malartic,Quebec
+Bonavista,Newfoundland and Labrador
+Killarney - Turtle Mountain,Manitoba
+Woodlands,Manitoba
+Lewisporte,Newfoundland and Labrador
+Saint-Denis-de-Brompton,Quebec
+Invermere,British Columbia
+Salisbury,New Brunswick
+Bifrost-Riverton,Manitoba
+Buckland No. 491,Saskatchewan
+Cartier,Manitoba
+Sainte-Anne-des-Lacs,Quebec
+Highlands East,Ontario
+Alexander,Manitoba
+Sainte-Claire,Quebec
+Percé,Quebec
+Saint-Jean-Port-Joli,Quebec
+East Hawkesbury,Ontario
+Bright,New Brunswick
+Penhold,Alberta
+Saint-André-d'Argenteuil,Quebec
+Saint-Côme--Linière,Quebec
+Saint-Sulpice,Quebec
+Marathon,Ontario
+Forestville,Quebec
+Inuvik,Northwest Territories
+Richmond,Quebec
+Lake Cowichan,British Columbia
+Sables-Spanish Rivers,Ontario
+Hillsburg-Roblin-Shell River,Manitoba
+Port Hawkesbury,Nova Scotia
+Three Hills,Alberta
+Lorette,Manitoba
+Paspebiac,Quebec
+Saint-Thomas,Quebec
+Saint-Jean-Baptiste,Quebec
+Portneuf,Quebec
+Pictou,Nova Scotia
+Tisdale,Saskatchewan
+Lake of Bays,Ontario
+High Level,Alberta
+Gibbons,Alberta
+Bishops Falls,Newfoundland and Labrador
+WestLake-Gladstone,Manitoba
+Normandin,Quebec
+Saint-Alphonse-Rodriguez,Quebec
+Beauséjour,Manitoba
+Dalhousie,New Brunswick
+Saint-Alphonse-de-Granby,Quebec
+Lac du Bonnet,Manitoba
+Clermont,Quebec
+Virden,Manitoba
+Compton,Quebec
+White City,Saskatchewan
+Ellison,British Columbia
+Mont-Saint-Grégoire,Quebec
+Wellington,New Brunswick
+Merrickville,Ontario
+Saint-Liboire,Quebec
+Dégelis,Quebec
+Morris,Manitoba
+Saint-Alexis-des-Monts,Quebec
+Cap-Saint-Ignace,Quebec
+Saint-Anaclet-de-Lessard,Quebec
+Carman,Manitoba
+Athens,Ontario
+Melancthon,Ontario
+Cap Santé,Quebec
+Harbour Grace,Newfoundland and Labrador
+Houston,British Columbia
+Adelaide-Metcalfe,Ontario
+Crossfield,Alberta
+Springdale,Newfoundland and Labrador
+Fort Macleod,Alberta
+Athabasca,Alberta
+Enderby,British Columbia
+Saint-Ferréol-les-Neiges,Quebec
+Laurentian Hills,Ontario
+Grand Valley,Ontario
+Senneterre,Quebec
+Sainte-Marie-Madeleine,Quebec
+Admaston/Bromley,Ontario
+Saint-Gabriel-de-Valcartier,Quebec
+North Algona Wilberforce,Ontario
+Kingston,New Brunswick
+Wawa,Ontario
+Saint-Christophe-d'Arthabaska,Quebec
+Sainte-Mélanie,Quebec
+Ascot Corner,Quebec
+Horton,Ontario
+Saint-Michel,Quebec
+Botwood,Newfoundland and Labrador
+Saint-Paul-d'Abbotsford,Quebec
+Saint-Marc-des-Carrières,Quebec
+Stanstead,Quebec
+Sainte-Anne-de-Beaupré,Quebec
+Sainte-Luce,Quebec
+Saint-Gabriel,Quebec
+Rankin Inlet,Nunavut
+Vanscoy No. 345,Saskatchewan
+Cedar,British Columbia
+Princeton,British Columbia
+La Loche,Saskatchewan
+Kingsclear,New Brunswick
+Ferme-Neuve,Quebec
+Thurso,Quebec
+Adstock,Quebec
+Shuniah,Ontario
+Enniskillen,Ontario
+Yamachiche,Quebec
+Saint-Maurice,Quebec
+Bonaventure,Quebec
+Val-Morin,Quebec
+Pohénégamook,Quebec
+Wakefield,New Brunswick
+Stoke,Quebec
+Sainte-Marguerite-du-Lac-Masson,Quebec
+Saint-Prime,Quebec
+Kuujjuaq,Quebec
+Atikokan,Ontario
+Grenville-sur-la-Rouge,Quebec
+North Cypress-Langford,Manitoba
+Sainte-Anne-de-Sorel,Quebec
+Macamic,Quebec
+Sundre,Alberta
+Rougemont,Quebec
+Piedmont,Quebec
+Grimshaw,Alberta
+Lac-des-Écorces,Quebec
+Northeastern Manitoulin and the Islands,Ontario
+Pelican Narrows,Saskatchewan
+McDougall,Ontario
+Black Diamond,Alberta
+Saint-Pamphile,Quebec
+Bedford,Quebec
+Weedon-Centre,Quebec
+Lacolle,Quebec
+Saint-Gabriel-de-Brandon,Quebec
+Errington,British Columbia
+Coalhurst,Alberta
+French River / Rivière des Français,Ontario
+Arviat,Nunavut
+Saint-David-de-Falardeau,Quebec
+Markstay,Ontario
+Spaniards Bay,Newfoundland and Labrador
+Cocagne,New Brunswick
+Saint-Bruno,Quebec
+Chetwynd,British Columbia
+Laurier-Station,Quebec
+Saint-Anicet,Quebec
+Saint-Mathieu-de-Beloeil,Quebec
+Cap-Chat,Quebec
+Sexsmith,Alberta
+Notre-Dame-de-Lourdes,Quebec
+Ville-Marie,Quebec
+Saint-Isidore,Quebec
+Shippegan,New Brunswick
+East Garafraxa,Ontario
+Pemberton,British Columbia
+Unity,Saskatchewan
+Rimbey,Alberta
+High Prairie,Alberta
+Turner Valley,Alberta
+Hanna,Alberta
+Fort Smith,Northwest Territories
+Maria,Quebec
+Saint-Chrysostome,Quebec
+Greater Madawaska,Ontario
+Berwick,Nova Scotia
+Saint-Damase,Quebec
+Lincoln,New Brunswick
+Disraeli,Quebec
+Sainte-Victoire-de-Sorel,Quebec
+Meadow Lake No. 588,Saskatchewan
+Elkford,British Columbia
+Georgian Bay,Ontario
+Saint-Alexandre,Quebec
+Hérbertville,Quebec
+Moosomin,Saskatchewan
+North Kawartha,Ontario
+Sainte-Thècle,Quebec
+Trenton,Nova Scotia
+Fermont,Quebec
+Esterhazy,Saskatchewan
+Wickham,Quebec
+La Présentation,Quebec
+Beaverlodge,Alberta
+Sainte-Catherine-de-Hatley,Quebec
+Saint-Basile,Quebec
+Saint-Raphaël,Quebec
+Holyrood,Newfoundland and Labrador
+Gracefield,Quebec
+Saint-Martin,Quebec
+Causapscal,Quebec
+Brigham,Quebec
+Perry,Ontario
+Port-Daniel--Gascons,Quebec
+Rosetown,Saskatchewan
+Minnedosa,Manitoba
+Labelle,Quebec
+Huntingdon,Quebec
+Hébertville,Quebec
+Black River-Matheson,Ontario
+Saint-Michel-des-Saints,Quebec
+Dufferin,Manitoba
+Saint-Victor,Quebec
+Sicamous,British Columbia
+Cap Pele,New Brunswick
+Kelsey,Manitoba
+"Killaloe, Hagarty and Richards",Ontario
+Alvinston,Ontario
+Dundurn No. 314,Saskatchewan
+Saint-Éphrem-de-Beauce,Quebec
+Assiniboia,Saskatchewan
+Témiscaming,Quebec
+Magrath,Alberta
+Sainte-Geneviève-de-Berthier,Quebec
+Buctouche,New Brunswick
+Grand Manan,New Brunswick
+Sainte-Madeleine,Quebec
+Boissevain,Manitoba
+Scott,Quebec
+Sainte-Croix,Quebec
+Algonquin Highlands,Ontario
+Valcourt,Quebec
+Saint George,New Brunswick
+Paquetville,New Brunswick
+Saint-Dominique,Quebec
+Clearwater,British Columbia
+Addington Highlands,Ontario
+Lillooet,British Columbia
+Burin,Newfoundland and Labrador
+Grand Bank,Newfoundland and Labrador
+Léry,Quebec
+Minto,New Brunswick
+Rosthern No. 403,Saskatchewan
+Chase,British Columbia
+Mansfield-et-Pontefract,Quebec
+Saint-Denis,Quebec
+Outlook,Saskatchewan
+Mitchell,Manitoba
+Saint-Gédéon-de-Beauce,Quebec
+Saint-Léonard-d'Aston,Quebec
+Lunenburg,Nova Scotia
+Northesk,New Brunswick
+Albanel,Quebec
+St. Anthony,Newfoundland and Labrador
+Pessamit,Quebec
+Maskinongé,Quebec
+Saint-Charles-de-Bellechasse,Quebec
+Fogo Island,Newfoundland and Labrador
+East Broughton,Quebec
+Lantz,Nova Scotia
+Calmar,Alberta
+Highlands,British Columbia
+Saint-Polycarpe,Quebec
+Logy Bay-Middle Cove-Outer Cove,Newfoundland and Labrador
+Deschambault,Quebec
+Canora,Saskatchewan
+Upper Miramichi,New Brunswick
+Anmore,British Columbia
+Hardwicke,New Brunswick
+Saint-Côme,Quebec
+Waskaganish,Quebec
+Twillingate,Newfoundland and Labrador
+Saint-Quentin,New Brunswick
+Lebel-sur-Quévillon,Quebec
+Pilot Butte,Saskatchewan
+Nanton,Alberta
+Pierreville,Quebec
+New-Wes-Valley,Newfoundland and Labrador
+Pennfield Ridge,New Brunswick
+West Interlake,Manitoba
+Biggar,Saskatchewan
+Britannia No. 502,Saskatchewan
+Kent,New Brunswick
+Wabana,Newfoundland and Labrador
+Saint-Gilles,Quebec
+Wendake,Quebec
+Saint-Bernard,Quebec
+Sainte-Cécile-de-Milton,Quebec
+Saint-Roch-de-Richelieu,Quebec
+Saint-Nazaire,Quebec
+Saint-Elzéar,Quebec
+Hinchinbrooke,Quebec
+Saint-François-Xavier-de-Brompton,Quebec
+Papineauville,Quebec
+Prairie View,Manitoba
+Cowichan Bay,British Columbia
+Saint-Ignace-de-Loyola,Quebec
+Central Manitoulin,Ontario
+Maple Creek,Saskatchewan
+Glovertown,Newfoundland and Labrador
+Tofield,Alberta
+Madoc,Ontario
+Upton,Quebec
+Sainte-Anne-de-Sabrevois,Quebec
+Logan Lake,British Columbia
+Sainte-Anne-de-la-Pérade,Quebec
+Saint-Damien-de-Buckland,Quebec
+Baker Lake,Nunavut
+Saltair,British Columbia
+Pouch Cove,Newfoundland and Labrador
+Saint-Ferdinand,Quebec
+Port McNeill,British Columbia
+Digby,Nova Scotia
+Manouane,Quebec
+Saint-Gervais,Quebec
+Neebing,Ontario
+Redwater,Alberta
+Saint-Alexandre-de-Kamouraska,Quebec
+Saint-Marc-sur-Richelieu,Quebec
+Mandeville,Quebec
+Caplan,Quebec
+Point Edward,Ontario
+Allardville,New Brunswick
+Waterville,Quebec
+Saint-Damien,Quebec
+Lac-Nominingue,Quebec
+Obedjiwan,Quebec
+Rama,Saskatchewan
+McCreary,Manitoba
+Deloraine-Winchester,Manitoba
+Oakland-Wawanesa,Manitoba
+Brenda-Waskada,Manitoba
+Russell-Binscarth,Manitoba
+Ellice-Archie,Manitoba
+Souris-Glenwood,Manitoba
+Riverdale,Manitoba
+Pembina,Manitoba
+Wallace-Woodworth,Manitoba
+Lorne,Manitoba
+Ethelbert,Manitoba
+Yellowhead,Manitoba
+Swan Valley West,Manitoba
+Grey,Manitoba
+Gilbert Plains,Manitoba
+Norfolk-Treherne,Manitoba
+Hamiota,Manitoba
+Emerson-Franklin,Manitoba
+Sifton,Manitoba
+Rossburn,Manitoba
+Grand View,Manitoba
+Grassland,Manitoba
+Louise,Manitoba
+Ste. Rose,Manitoba
+Cartwright-Roblin,Manitoba
+Mossey River,Manitoba
+Lakeshore,Manitoba
+Riding Mountain West,Manitoba
+Clanwilliam-Erickson,Manitoba
+Glenboro-South Cypress,Manitoba
+North Norfolk,Manitoba
+Reinland,Manitoba
+Minitonas-Bowsman,Manitoba
+Kippens,Newfoundland and Labrador
+Blucher,Saskatchewan
+Hatley,Quebec
+Saint-Gédéon,Quebec
+Kingsey Falls,Quebec
+Provost,Alberta
+Saint-Charles,New Brunswick
+Mattawa,Ontario
+Tumbler Ridge,British Columbia
+Terrasse-Vaudreuil,Quebec
+L'Ascension-de-Notre-Seigneur,Quebec
+Bow Island,Alberta
+Barraute,Quebec
+One Hundred Mile House,British Columbia
+Kedgwick,New Brunswick
+Gambo,Newfoundland and Labrador
+Saint-Liguori,Quebec
+Bonfield,Ontario
+Pointe-Lebel,Quebec
+Saint Mary,New Brunswick
+Saint-Patrice-de-Sherrington,Quebec
+Fox Creek,Alberta
+Dawn-Euphemia,Ontario
+Chapleau,Ontario
+Saint-Esprit,Quebec
+Westfield Beach,New Brunswick
+Montague,Prince Edward Island
+Mashteuiatsh,Quebec
+Saint-François-du-Lac,Quebec
+Eel River Crossing,New Brunswick
+Saint-Fulgence,Quebec
+Millet,Alberta
+Vallée-Jonction,Quebec
+Saint-Georges-de-Cacouna,Quebec
+Lumsden No. 189,Saskatchewan
+Manitouwadge,Ontario
+Wellington,Ontario
+Swift Current No. 137,Saskatchewan
+Tofino,British Columbia
+Fort Qu’Appelle,Saskatchewan
+Vulcan,Alberta
+Indian Head,Saskatchewan
+Petit Rocher,New Brunswick
+Wabush,Newfoundland and Labrador
+Saint-Fabien,Quebec
+Watrous,Saskatchewan
+North Frontenac,Ontario
+Lac-Supérieur,Quebec
+Les Escoumins,Quebec
+Richibucto,New Brunswick
+Rivière-Beaudette,Quebec
+Saint-Barthélemy,Quebec
+Nisga'a,British Columbia
+Austin,Quebec
+Saint-Mathieu,Quebec
+Saint-Paul-de-l'Île-aux-Noix,Quebec
+Orkney No. 244,Saskatchewan
+Behchokò,Northwest Territories
+Saint-Joseph-de-Coleraine,Quebec
+Saint-Cyprien-de-Napierville,Quebec
+Sayabec,Quebec
+Valleyview,Alberta
+Déléage,Quebec
+Potton,Quebec
+Sainte-Béatrix,Quebec
+Sainte-Justine,Quebec
+Eastman,Quebec
+Saint-Valérien-de-Milton,Quebec
+Saint-Cuthbert,Quebec
+Saint-Blaise-sur-Richelieu,Quebec
+Middleton,Nova Scotia
+Maugerville,New Brunswick
+Dalmeny,Saskatchewan
+Kamsack,Saskatchewan
+Lumsden,Saskatchewan
+Trinity Bay North,Newfoundland and Labrador
+Saint-Michel-de-Bellechasse,Quebec
+Sainte-Angèle-de-Monnoir,Quebec
+Picture Butte,Alberta
+Sacré-Coeur-Saguenay,Quebec
+Saint-Louis,New Brunswick
+Victoria,Newfoundland and Labrador
+Saint-Robert,Quebec
+Armstrong,Manitoba
+Saint-Pierre-de-l'Île-d'Orléans,Quebec
+La Guadeloupe,Quebec
+Saint Andrews,New Brunswick
+Burns Lake,British Columbia
+Povungnituk,Quebec
+Manners Sutton,New Brunswick
+Gore,Quebec
+Deseronto,Ontario
+Lamont,Alberta
+Chambord,Quebec
+Dudswell,Quebec
+Wynyard,Saskatchewan
+Cambridge Bay,Nunavut
+Saint-Narcisse,Quebec
+Frontenac Islands,Ontario
+Waswanipi,Quebec
+Inukjuak,Quebec
+Piney,Manitoba
+Komoka,Ontario
+Saint-Zacharie,Quebec
+Hemmingford,Quebec
+Shelburne,Nova Scotia
+Saint-Clet,Quebec
+Carberry,Manitoba
+Brighton,New Brunswick
+Saint-Antoine,New Brunswick
+Warfield,British Columbia
+Northampton,New Brunswick
+Saint-Ours,Quebec
+Stephenville Crossing,Newfoundland and Labrador
+Sainte-Anne-de-la-Pocatière,Quebec
+Ucluelet,British Columbia
+Saint-Placide,Quebec
+Barrière,British Columbia
+Fisher,Manitoba
+Nipissing,Ontario
+Sainte-Clotilde,Quebec
+Shaunavon,Saskatchewan
+Wicklow,New Brunswick
+Southesk,New Brunswick
+Nouvelle,Quebec
+Rosthern,Saskatchewan
+Yamaska,Quebec
+Neguac,New Brunswick
+Flat Rock,Newfoundland and Labrador
+Igloolik,Nunavut
+Grunthal,Manitoba
+Naramata,British Columbia
+Saint-Élie-de-Caxton,Quebec
+Blumenort,Manitoba
+Balmoral,New Brunswick
+Price,Quebec
+Rosedale,Manitoba
+Saint-Jacques-le-Mineur,Quebec
+Huron Shores,Ontario
+Champlain,Quebec
+Whitehead,Manitoba
+Saint-Antoine-sur-Richelieu,Quebec
+Saint-Pacôme,Quebec
+Saint-Stanislas-de-Kostka,Quebec
+Frontenac,Quebec
+Stuartburn,Manitoba
+Yamaska-Est,Quebec
+Sainte-Émélie-de-l'Énergie,Quebec
+Saint-Charles-sur-Richelieu,Quebec
+Saint-Joseph-de-Sorel,Quebec
+Nipigon,Ontario
+Rivière-Blanche,Quebec
+Sainte-Hélène-de-Bagot,Quebec
+Franklin Centre,Quebec
+Harbour Breton,Newfoundland and Labrador
+Massey Drive,Newfoundland and Labrador
+Mille-Isles,Quebec
+Wilton No. 472,Saskatchewan
+Lyster,Quebec
+Oakview,Manitoba
+Balgonie,Saskatchewan
+Harrison Park,Manitoba
+Kensington,Prince Edward Island
+Witless Bay,Newfoundland and Labrador
+Pond Inlet,Nunavut
+Royston,British Columbia
+Sainte-Clotilde-de-Horton,Quebec
+Burford,Ontario
+Fossambault-sur-le-Lac,Quebec
+Saint-Benoît-Labre,Quebec
+Coombs,British Columbia
+Terrace Bay,Ontario
+Chapais,Quebec
+Saint-Honoré-de-Shenley,Quebec
+Cleveland,Quebec
+"Macdonald, Meredith and Aberdeen Additional",Ontario
+Messines,Quebec
+Saint-Jean-de-Dieu,Quebec
+Nakusp,British Columbia
+Florenceville,New Brunswick
+Saint-Antoine-de-Tilly,Quebec
+Lakeview,British Columbia
+Humbermouth,Newfoundland and Labrador
+Fort St. James,British Columbia
+Saint-François-de-la-Rivière-du-Sud,Quebec
+Saint-Jacques,New Brunswick
+Uashat,Quebec
+Perth,New Brunswick
+Eeyou Istchee Baie-James,Quebec
+Shellbrook No. 493,Saskatchewan
+Shawville,Quebec
+Saint-Lucien,Quebec
+Lambton,Quebec
+Saint-Laurent-de-l'Île-d'Orléans,Quebec
+Saint-Flavien,Quebec
+Grenville,Quebec
+Chute-aux-Outardes,Quebec
+Sainte-Marcelline-de-Kildare,Quebec
+Saint-Félix-de-Kingsey,Quebec
+Upper Island Cove,Newfoundland and Labrador
+Glenelg,New Brunswick
+Sainte-Élisabeth,Quebec
+Ashcroft,British Columbia
+Clarkes Beach,Newfoundland and Labrador
+Saint-Bernard-de-Lacolle,Quebec
+Belledune,New Brunswick
+Saint-Guillaume,Quebec
+Venise-en-Québec,Quebec
+Maliotenam,Quebec
+Ripon,Quebec
+Hilliers,British Columbia
+Saint-Joseph,New Brunswick
+Saint-Paulin,Quebec
+Bon Accord,Alberta
+Saint David,New Brunswick
+Saint-Albert,Quebec
+Matagami,Quebec
+Springfield,New Brunswick
+Amherst,Quebec
+Notre-Dame-du-Laus,Quebec
+St. George,New Brunswick
+Wembley,Alberta
+Victoria,Manitoba
+Springbrook,Alberta
+Saint-Tite-des-Caps,Quebec
+Hudson Bay,Saskatchewan
+Pinawa,Manitoba
+"Brudenell, Lyndoch and Raglan",Ontario
+Carlyle,Saskatchewan
+Keremeos,British Columbia
+Val-Joli,Quebec
+Gold River,British Columbia
+Saint-Casimir,Quebec
+Bay Bulls,Newfoundland and Labrador
+Langham,Saskatchewan
+Frenchman Butte,Saskatchewan
+Gordon,New Brunswick
+Kugluktuk,Nunavut
+Saint-Malachie,Quebec
+Southampton,New Brunswick
+Salluit,Quebec
+Pangnirtung,Nunavut
+Saint-Louis-de-Gonzague,Quebec
+Moosonee,Ontario
+Englehart,Ontario
+Saint-Urbain,Quebec
+Tring-Jonction,Quebec
+Nauwigewauk,New Brunswick
+Pointe-à-la-Croix,Quebec
+Denmark,New Brunswick
+Saint-Joachim,Quebec
+Torch River No. 488,Saskatchewan
+Saint-Théodore-d'Acton,Quebec
+Grindrod,British Columbia
+L’ Îsle-Verte,Quebec
+Harrison Hot Springs,British Columbia
+Palmarolle,Quebec
+Henryville,Quebec
+Sussex Corner,New Brunswick
+Saint-Odilon-de-Cranbourne,Quebec
+Pipestone,Manitoba
+Laurierville,Quebec
+La Doré,Quebec
+Lac-au-Saumon,Quebec
+Wotton,Quebec
+Prairie Lakes,Manitoba
+Elk Point,Alberta
+Shellbrook,Saskatchewan
+Wemindji,Quebec
+Cape Dorset,Nunavut
+Strong,Ontario
+Lappe,Ontario
+Rivière-Héva,Quebec
+Fort-Coulonge,Quebec
+Irishtown-Summerside,Newfoundland and Labrador
+Godmanchester,Quebec
+Macklin,Saskatchewan
+Armour,Ontario
+Saint-Simon,Quebec
+St. François Xavier,Manitoba
+Tingwick,Quebec
+Saint-Aubert,Quebec
+Saint-Mathieu-du-Parc,Quebec
+Wabasca,Alberta
+Ragueneau,Quebec
+Notre-Dame-du-Bon-Conseil,Quebec
+Wasagamack,Manitoba
+Saint-Ubalde,Quebec
+Creighton,Saskatchewan
+Fortune,Newfoundland and Labrador
+Faraday,Ontario
+Berthier-sur-Mer,Quebec
+Frampton,Quebec
+Magnetawan,Ontario
+New Carlisle,Quebec
+Laird No. 404,Saskatchewan
+Petitcodiac,New Brunswick
+Popkum,British Columbia
+Norton,New Brunswick
+Canwood No. 494,Saskatchewan
+Wentworth-Nord,Quebec
+Bas Caraquet,New Brunswick
+Sainte-Ursule,Quebec
+Dawson,Yukon
+Nantes,Quebec
+Lac-aux-Sables,Quebec
+Stewiacke,Nova Scotia
+Taylor,British Columbia
+Rosser,Manitoba
+Estevan No. 5,Saskatchewan
+Falmouth,Nova Scotia
+Vaudreuil-sur-le-Lac,Quebec
+Grahamdale,Manitoba
+Cardwell,New Brunswick
+Two Hills,Alberta
+Spiritwood No. 496,Saskatchewan
+Legal,Alberta
+Amulet,Quebec
+Hérouxville,Quebec
+Pointe-des-Cascades,Quebec
+Weldford,New Brunswick
+Reynolds,Manitoba
+St. Laurent,Manitoba
+Lions Bay,British Columbia
+L'Isle-aux-Allumettes,Quebec
+Emo,Ontario
+Sainte-Brigide-d'Iberville,Quebec
+Les Éboulements,Quebec
+Dunsmuir,British Columbia
+Pointe-aux-Outardes,Quebec
+Smooth Rock Falls,Ontario
+Oxbow,Saskatchewan
+Telkwa,British Columbia
+Gjoa Haven,Nunavut
+Sainte-Barbe,Quebec
+Mayerthorpe,Alberta
+Saint-Louis-du-Ha! Ha!,Quebec
+Powerview-Pine Falls,Manitoba
+Baie Verte,Newfoundland and Labrador
+Saint-Édouard,Quebec
+Charlo,New Brunswick
+Hillsborough,New Brunswick
+Bruederheim,Alberta
+Burgeo,Newfoundland and Labrador
+Wadena,Saskatchewan
+Richmond,New Brunswick
+Swan Hills,Alberta
+Wilkie,Saskatchewan
+Saint-Léonard,New Brunswick
+Rivière-Bleue,Quebec
+Noyan,Quebec
+Ile-à-la-Crosse,Saskatchewan
+Landmark,Manitoba
+Saint-Hugues,Quebec
+Chisholm,Ontario
+Sainte-Anne-du-Sault,Quebec
+La Conception,Quebec
+Saint-Valère,Quebec
+Sorrento,British Columbia
+Lamèque,New Brunswick
+Thessalon,Ontario
+L'Isle-aux-Coudres,Quebec
+Nobleford,Alberta
+Larouche,Quebec
+South Qu'Appelle No. 157,Saskatchewan
+Elton,Manitoba
+Lorrainville,Quebec
+Conestogo,Ontario
+Upham,New Brunswick
+St.-Charles,Ontario
+Sainte-Lucie-des-Laurentides,Quebec
+Saint-Alexis,Quebec
+Gillam,Manitoba
+Roxton Falls,Quebec
+Montcalm,Manitoba
+Clarendon,Quebec
+Mervin No. 499,Saskatchewan
+Saint-Ludger,Quebec
+Coldwell,Manitoba
+Saint-Arsène,Quebec
+Racine,Quebec
+Saint-Majorique-de-Grantham,Quebec
+Saint-Zénon,Quebec
+Saint-Armand,Quebec
+Saint-Édouard-de-Lotbinière,Quebec
+Alonsa,Manitoba
+Listuguj,Quebec
+Bowden,Alberta
+St. Joseph,Ontario
+Osler,Saskatchewan
+Saint-Hubert-de-Rivière-du-Loup,Quebec
+Saint-Jude,Quebec
+Dildo,Newfoundland and Labrador
+La Minerve,Quebec
+Lanigan,Saskatchewan
+Lajord No. 128,Saskatchewan
+Moonbeam,Ontario
+Notre-Dame-des-Pins,Quebec
+Saint-Alban,Quebec
+Saint-Pierre-les-Becquets,Quebec
+Arborg,Manitoba
+Vauxhall,Alberta
+Bayfield,Ontario
+Beaver River,Saskatchewan
+Irricana,Alberta
+Labrecque,Quebec
+New Bandon,New Brunswick
+Wemotaci,Quebec
+Sainte-Hénédine,Quebec
+L'Anse-Saint-Jean,Quebec
+Bassano,Alberta
+Parrsboro,Nova Scotia
+Kaleden,British Columbia
+St. George's,Newfoundland and Labrador
+Fort Simpson,Northwest Territories
+Akwesasne,Quebec
+L’Avenir,Quebec
+Ignace,Ontario
+Claremont,Ontario
+Teulon,Manitoba
+Peel,New Brunswick
+Musquash,New Brunswick
+Notre-Dame-du-Portage,Quebec
+St. Lawrence,Newfoundland and Labrador
+Oxford,Nova Scotia
+Minto-Odanah,Manitoba
+St. Alban's,Newfoundland and Labrador
+Saint James,New Brunswick
+Saint-Norbert-d'Arthabaska,Quebec
+Manning,Alberta
+Glenella-Lansdowne,Manitoba
+Saint-Hilarion,Quebec
+Saint-Siméon,Quebec
+Saint-Barnabé,Quebec
+Sainte-Félicité,Quebec
+Two Borders,Manitoba
+Queensbury,New Brunswick
+Bury,Quebec
+Lac-Bouchette,Quebec
+Saint-Lazare-de-Bellechasse,Quebec
+Saint-Michel-du-Squatec,Quebec
+Saint-Joachim-de-Shefford,Quebec
+St-Pierre-Jolys,Manitoba
+Grand-Remous,Quebec
+Saint-Gabriel-de-Rimouski,Quebec
+Armstrong,Ontario
+Rogersville,New Brunswick
+Langenburg,Saskatchewan
+Sainte-Marie-Salomé,Quebec
+Moose Jaw No. 161,Saskatchewan
+Saint-Cyprien,Quebec
+Maidstone,Saskatchewan
+Très-Saint-Sacrement,Quebec
+Battle River No. 438,Saskatchewan
+Miltonvale Park,Prince Edward Island
+McAdam,New Brunswick
+Saints-Anges,Quebec
+Saint-Urbain-Premier,Quebec
+Centreville-Wareham-Trinity,Newfoundland and Labrador
+Alberton,Prince Edward Island
+Winnipeg Beach,Manitoba
+Sainte-Agathe-de-Lotbinière,Quebec
+Salmo,British Columbia
+Kipling,Saskatchewan
+Sagamok,Ontario
+Trécesson,Quebec
+Tara,Ontario
+Grande-Vallée,Quebec
+Bertrand,New Brunswick
+Newcastle,New Brunswick
+Mont-Carmel,Quebec
+Saint Martins,New Brunswick
+Saint-Eugène,Quebec
+Notre-Dame-des-Neiges,Quebec
+Saint-André,New Brunswick
+Centreville,Nova Scotia
+Roland,Manitoba
+Saint-Léon-de-Standon,Quebec
+Saint-Modeste,Quebec
+Carnduff,Saskatchewan
+Carling,Ontario
+Eckville,Alberta
+Nain,Newfoundland and Labrador
+Hillsburgh,Ontario
+Foam Lake,Saskatchewan
+Sainte-Sabine,Quebec
+Saint-Maxime-du-Mont-Louis,Quebec
+Blanc-Sablon,Quebec
+Cobalt,Ontario
+Gravelbourg,Saskatchewan
+South River,Ontario
+Hudson Bay No. 394,Saskatchewan
+McKellar,Ontario
+Frelighsburg,Quebec
+Buffalo Narrows,Saskatchewan
+Ayer’s Cliff,Quebec
+Les Méchins,Quebec
+Sainte-Marguerite,Quebec
+Saint-Claude,Quebec
+Air Ronge,Saskatchewan
+Chipman,New Brunswick
+Girardville,Quebec
+Saint-Bruno-de-Guigues,Quebec
+Grenfell,Saskatchewan
+Dorchester,New Brunswick
+South Algonquin,Ontario
+Windermere,British Columbia
+Saint-Narcisse-de-Beaurivage,Quebec
+Saint-René-de-Matane,Quebec
+Sainte-Jeanne-d'Arc,Quebec
+Plaisance,Quebec
+Roxton-Sud,Quebec
+St. Louis No. 431,Saskatchewan
+Youbou,British Columbia
+Duchess,Alberta
+Saint-Frédéric,Quebec
+Viking,Alberta
+Sioux Narrows-Nestor Falls,Ontario
+Whitecourt,Alberta
+Repulse Bay,Nunavut
+Montréal-Est,Quebec
+King,Ontario
+Regina Beach,Saskatchewan
+Saint-Patrice-de-Beaurivage,Quebec
+Ootischenia,British Columbia
+Hensall,Ontario
+Bentley,Alberta
+Durham,New Brunswick
+Sainte-Marthe,Quebec
+Notre-Dame-du-Nord,Quebec
+Pinehouse,Saskatchewan
+Saint-Aimé-des-Lacs,Quebec
+Lac-Drolet,Quebec
+Preeceville,Saskatchewan
+Maple Creek No. 111,Saskatchewan
+Harbour Main-Chapel's Cove-Lakeview,Newfoundland and Labrador
+Saint-Wenceslas,Quebec
+Weyburn No. 67,Saskatchewan
+Birch Hills,Saskatchewan
+Wedgeport,Nova Scotia
+Kerrobert,Saskatchewan
+Havelock,New Brunswick
+Eston,Saskatchewan
+Sainte-Geneviève-de-Batiscan,Quebec
+Saint-Justin,Quebec
+Saint-Norbert,Quebec
+Schreiber,Ontario
+Trochu,Alberta
+Botsford,New Brunswick
+Riviere-Ouelle,Quebec
+Greenwich,New Brunswick
+Stukely-Sud,Quebec
+Saint-Georges-de-Clarenceville,Quebec
+Sainte-Thérèse-de-Gaspé,Quebec
+Beachburg,Ontario
+Desbiens,Quebec
+Clyde River,Nunavut
+La Macaza,Quebec
+Souris,Prince Edward Island
+Kindersley No. 290,Saskatchewan
+Laird,Ontario
+Falher,Alberta
+Saint-Vallier,Quebec
+Coleraine,Quebec
+Melita,Manitoba
+Noonan,New Brunswick
+Sainte-Pétronille,Quebec
+Delisle,Saskatchewan
+Bristol,Quebec
+Mahone Bay,Nova Scotia
+Waldheim,Saskatchewan
+Saint-Sylvestre,Quebec
+Taloyoak,Nunavut
+Onoway,Alberta
+Saint-Stanislas,Quebec
+Malpeque,Prince Edward Island
+Plantagenet,Ontario
+Longue-Rive,Quebec
+Argyle,Manitoba
+Davidson,Saskatchewan
+Plaster Rock,New Brunswick
+Wilmot,New Brunswick
+Valemount,British Columbia
+Saint-Léonard-de-Portneuf,Quebec
+Alberta Beach,Alberta
+Saint-Narcisse-de-Rimouski,Quebec
+Saint-Bonaventure,Quebec
+Longlaketon No. 219,Saskatchewan
+Papineau-Cameron,Ontario
+Assiginack,Ontario
+Brébeuf,Quebec
+Hudson Hope,British Columbia
+Prince,Ontario
+Baie-du-Febvre,Quebec
+Durham-Sud,Quebec
+Melbourne,Quebec
+Nipawin No. 487,Saskatchewan
+Duck Lake No. 463,Saskatchewan
+Oyen,Alberta

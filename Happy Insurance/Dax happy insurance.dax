@@ -1,0 +1,78 @@
+﻿EVALUATE
+FILTER(
+FILTER ( customer, customer[country] = "Egypt" ),
+    AND (
+        CALCULATE (
+            SUM ( 'fact'[income] ),
+            'Date'[Year] = 2013
+        )>1000 ,
+        CALCULATE (
+            AVERAGE ('fact'[Income] ),
+            'Date'[Year] = 2012
+        ) >1000
+    )
+)
+
+----
+
+Evaluate
+    SUMMARIZE (
+        'fact',
+        'Date'[Year],
+        Product[Division Name],
+		"Total Quantity", SUM('fact'[revenueqty])
+)
+    
+    
+  
+----
+    
+    
+evaluate(
+      summarize(
+                   customer,
+                   customer[CustomerName],
+                   customer[country],
+                   "Total Sales", SUM('fact'[Revenue]),
+                   "Average Sales", AVERAGE('fact'[Revenue])
+                )
+)
+order by [country], [customername]
+
+
+------
+
+
+EVALUATE
+FILTER(
+FILTER ( customer, customer[Customer Type] = "Distributor"),
+    AND (
+        CALCULATE (
+           ABS( SUM('fact'[Refunds])/SUM ('fact'[income] )),
+            'Date'[Year] = 2013
+        ) > 0.1 ,
+        CALCULATE (
+            AVERAGE ('fact'[Income] ),
+            'Date'[Year]= 2013
+        ) >=0
+    )
+)
+
+
+------
+
+
+EVALUATE
+FILTER(
+FILTER ( customer, customer[Customer Type] = "End-User"),
+    AND (
+        CALCULATE (
+           ABS( SUM('fact'[Refunds])/SUM ('fact'[income] )),
+            'Date'[Year] = 2013
+        ) > 0.1 ,
+        CALCULATE (
+            AVERAGE ('fact'[Income] ),
+            'Date'[Year]= 2013
+        ) >=0
+    )
+)
